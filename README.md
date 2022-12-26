@@ -1,4 +1,6 @@
 # Cologne-Rent-Prediction-With-Sklearn-
+This repository contains the code (jupyter nptebook) and a 'research paper' detailing the goal, steps, observations and results for this project.
+
 ## PROBLEM STATEMENT
 The project goal is to design a system that will determine the maximum rent for a specific appartment or house in the city of cologne, given it's features. Then using the selected model :
 
